@@ -4,7 +4,7 @@
 
 # Hey, I'm Junha Kim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
-you can call me **Dex**. I'm a front-end developer based in South Korea. I'm a developer who builds through
+You can call me **Dex**. I'm a front-end developer based in South Korea. I'm a developer who builds through
 communication, as I believe software development is not just about writing code—it's about effective communication with
 users, stakeholders, and fellow developers.
 
@@ -12,7 +12,34 @@ My experience is primarily in front-end development, leading teams to build intu
 also capable of full-stack development, with skills in backend server development, cloud infrastructure (AWS/GCP), and
 automation.
 
-## Tech Skills
+## 🏗️ What I have built
+
+### Cross-Platform Social App for College Students
+
+- **Tech Stack**: Vue3, Vite, TypeScript, Ionic, Capacitor, Android, iOS, Java, Swift
+- Engineered complex, interactive UI components for features like timetables and real-time chat.
+- Built native plugins with Java and Swift to leverage core device features for each platform.
+- Optimized app performance and responsiveness across a wide range of devices and screen sizes.
+
+### Integrated DeFi & NFT Marketplace
+
+- **Tech Stack**: Vue3, Vite, TypeScript, TailwindCSS, ethers.js, Solidity, WalletConnect
+- Engineered the critical logic for a DeFi service that calculates real-time, cross-chain asset exchange rates, ensuring
+  high accuracy for financial transactions (Swap and Bridge).
+- Integrated multiple wallet providers in a multichain environment for a seamless user experience.
+- Structured a large-scale frontend project using a monorepo architecture and the git-flow branch strategy.
+- Maintained high performance, achieving Lighthouse scores above 90, and implemented security measures aligned with the
+  OWASP Top 10.
+
+## 🤔 What I'm looking for
+
+> I'm open to opportunities to build services that benefit society and contribute to making the world a better place.
+
+## 📫 Contact Me
+
+- Email: [kjunha77@gmail.com](mailto:kjunha77@gmail.com)
+
+## 🛠️ Tech Skill Sets
 
 ### Frontend
 
@@ -53,7 +80,7 @@ automation.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="redhat" width="36" />
 </p>
 
-## Stats
+## 👨🏻‍💻 Statistics
 
 <div>
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=JunhaDex&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
