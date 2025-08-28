@@ -39,7 +39,9 @@ automation.
 
 - Email: [kjunha77@gmail.com](mailto:kjunha77@gmail.com)
 
-## 🛠️ Tech Skill Sets
+---
+
+### 🛠️ Tech Skill Sets
 
 ### Frontend
 
@@ -80,7 +82,9 @@ automation.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" alt="redhat" width="36" />
 </p>
 
-## 👨🏻‍💻 Statistics
+---
+
+### 👨🏻‍💻 Statistics
 
 <div>
     <img width="380" src="https://github-readme-stats.vercel.app/api?username=JunhaDex&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
