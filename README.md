@@ -1,5 +1,5 @@
 <p align='center'>
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Ought%20to%20Build&fontSize=75&animation=fadeIn&fontAlignY=32&desc=Welcome%20to%20my%20GitHub!%20Let's%20Connect&descAlignY=46&descAlign=60"/>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Ought%20to%20Build&fontSize=75&animation=fadeIn&fontAlignY=32&desc=Welcome%20to%20my%20GitHub!%20Let's%20Connect.&descAlignY=46&descAlign=60"/>
 </p>
 
 # Hey, I'm Junha Kim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
@@ -33,7 +33,7 @@ automation.
 
 ## 🤔 What I'm looking for
 
-> I'm open to opportunities to build services that benefit society and contribute to making the world a better place.
+> I'm open to opportunities to build services that benefit society and contribute to making the world a better place.✨ 
 
 ## 📫 Contact Me
 
