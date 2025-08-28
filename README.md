@@ -55,7 +55,7 @@ automation.
 
 ## Stats
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 16px; flex-wrap: nowrap;">
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=JunhaDex&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Most Used Languages" />
-<img width=390 src="https://github-readme-stats.vercel.app/api?username=JunhaDex&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
+<div>
+    <img width="380" src="https://github-readme-stats.vercel.app/api?username=JunhaDex&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JunhaDex&theme=transparent&layout=compact&hide=css&langs_count=6&show_icons=true&locale=en" alt="Most Used Languages" />
 </div>
