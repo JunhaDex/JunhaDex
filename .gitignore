@@ -1,0 +1,8 @@
+# basic gitignore file for local file system (windows, macOS, Linux)
+# and IDEs (Visual Studio Code, JetBrains IDEs, etc.)
+.DS_Store
+.idea
+.vscode
+*.log
+.env
+*.env
