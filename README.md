@@ -86,7 +86,7 @@ automation.
 
 ### 👨🏻‍💻 Statistics
 
-<div>
-    <img width="380" src="https://github-readme-stats.vercel.app/api?username=JunhaDex&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JunhaDex&theme=transparent&layout=compact&hide=css&langs_count=6&show_icons=true&locale=en" alt="Most Used Languages" />
-</div>
+<nobr>
+    <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=JunhaDex&line_height=34&count_private=true&title_color=43ffaf&text_color=e5f7ef&bg_color=262a33&icon_color=43ffaf&hide_border=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JunhaDex&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&hide=css,html,javascript&langs_count=3&show_icons=true&locale=en" alt="Most Used Languages" />
+</nobr>
