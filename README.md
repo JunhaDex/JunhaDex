@@ -2,6 +2,9 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=240&section=header&text=Ought%20to%20Build&fontSize=75&animation=fadeIn&fontAlignY=32&desc=Welcome%20to%20my%20GitHub!%20Let's%20Connect.&descAlignY=46&descAlign=60"/>
 </p>
 
+[![en](https://img.shields.io/badge/Language-English-blue?logo=github)](./README.md)
+[![ko](https://img.shields.io/badge/언어-한국어-blue?logo=github)](./README.ko.md)
+
 # Hey, I'm Junha Kim <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 You can call me **Dex**. I'm a front-end developer based in South Korea. I'm a developer who builds through
@@ -86,7 +89,7 @@ automation.
 
 ### 👨🏻‍💻 Statistics
 
-<nobr>
+<p>
     <img align="center" width="380" src="https://github-readme-stats.vercel.app/api?username=JunhaDex&line_height=34&count_private=true&title_color=43ffaf&text_color=e5f7ef&bg_color=262a33&icon_color=43ffaf&hide_border=true&show_icons=true&rank_icon=github&locale=en" alt="GitHub Stats" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=JunhaDex&title_color=43ffaf&text_color=e5f7ef&icon_color=526777&hide_border=true&bg_color=262a33&hide=css,html,javascript&langs_count=3&show_icons=true&locale=en" alt="Most Used Languages" />
-</nobr>
+</p>
